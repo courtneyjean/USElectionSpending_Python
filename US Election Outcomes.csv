@@ -1,0 +1,154 @@
+us_state_code,us_state_name,Abbreviation,num_ec_votes,year,outcomes_DC,outcomes_RP
+AL, Alabama,Ala.,9,2016,0.34,0.62
+AK, Alaska,Alaska,3,2016,0.37,0.51
+AZ, Arizona,Ariz.,11,2016,0.45,0.48
+AR, Arkansas,Ark.,6,2016,0.34,0.61
+CA, California,Calif.,55,2016,0.62,0.32
+CO, Colorado,Colo.,9,2016,0.48,0.43
+CT, Connecticut,Conn.,7,2016,0.55,0.41
+DE, Delaware,Del.,3,2016,0.53,0.42
+DC, District of Columbia,D.C.,3,2016,0.91,0.04
+FL, Florida,Fla.,29,2016,0.47,0.49
+GA, Georgia,Ga.,16,2016,0.45,0.5
+HI, Hawaii,Hawaii,4,2016,0.62,0.3
+ID, Idaho,Idaho,4,2016,0.28,0.59
+IL, Illinois,Ill.,20,2016,0.55,0.38
+IN, Indiana,Ind.,11,2016,0.38,0.57
+IA, Iowa,Iowa,6,2016,0.42,0.51
+KS, Kansas,Kans.,6,2016,0.36,0.56
+KY, Kentucky,Ky.,8,2016,0.33,0.63
+LA, Louisiana,La.,8,2016,0.38,0.58
+ME, Maine,Maine,4,2016,0.48,0.45
+MD, Maryland,Md.,10,2016,0.6,0.34
+MA, Massachusetts,Mass.,11,2016,0.6,0.33
+MI, Michigan,Mich.,16,2016,0.47,0.47
+MN, Minnesota,Minn.,10,2016,0.46,0.45
+MS, Mississippi,Miss.,6,2016,0.4,0.58
+MO, Missouri,Mo.,10,2016,0.38,0.56
+MT, Montana,Mont.,3,2016,0.35,0.56
+NE, Nebraska,Nebr.,5,2016,0.34,0.59
+NV, Nevada,Nev.,6,2016,0.48,0.46
+NH, New Hampshire,N.H.,4,2016,0.47,0.47
+NJ, New Jersey,N.J.,14,2016,0.55,0.41
+NM, New Mexico,N. Mex.,5,2016,0.48,0.4
+NY, New York,N.Y.,29,2016,0.59,0.37
+NC, North Carolina,N.C.,15,2016,0.46,0.5
+ND,North Dakota,N. Dak.,3,2016,0.27,0.63
+OH, Ohio,Ohio,18,2016,0.43,0.51
+OK, Oklahoma,Okla.,7,2016,0.29,0.65
+OR, Oregon,Oreg.,7,2016,0.5,0.39
+PA, Pennsylvania,Pa.,20,2016,0.48,0.48
+RI, Rhode Island,R.I.,4,2016,0.54,0.39
+SC, South Carolina,S.C.,9,2016,0.41,0.55
+SD, South Dakota,S. Dak.,3,2016,0.32,0.62
+TN, Tennessee,Tenn.,11,2016,0.35,0.61
+TX, Texas,Tex.,38,2016,0.43,0.52
+UT, Utah,Utah,6,2016,0.27,0.45
+VT, Vermont,Vt.,3,2016,0.57,0.3
+VA, Virginia,Va.,13,2016,0.5,0.44
+WA, Washington,Wash.,12,2016,0.53,0.37
+WV, West Virginia,W. Va.,5,2016,0.26,0.68
+WI, Wisconsin,Wis.,10,2016,0.47,0.47
+WY, Wyoming,Wyo.,3,2016,0.22,0.68
+AL, Alabama,Ala.,9,2012,0.38,0.61
+AK, Alaska,Alaska,3,2012,0.41,0.55
+AZ, Arizona,Ariz.,11,2012,0.44,0.54
+AR, Arkansas,Ark.,6,2012,0.37,0.61
+CA, California,Calif.,55,2012,0.59,0.38
+CO, Colorado,Colo.,9,2012,0.51,0.47
+CT, Connecticut,Conn.,7,2012,0.58,0.4
+DE, Delaware,Del.,3,2012,0.59,0.4
+DC, District of Columbia,D.C.,3,2012,0.91,0.07
+FL, Florida,Fla.,29,2012,0.5,0.49
+GA, Georgia,Ga.,16,2012,0.45,0.53
+HI, Hawaii,Hawaii,4,2012,0.71,0.28
+ID, Idaho,Idaho,4,2012,0.33,0.65
+IL, Illinois,Ill.,20,2012,0.57,0.41
+IN, Indiana,Ind.,11,2012,0.44,0.54
+IA, Iowa,Iowa,6,2012,0.52,0.47
+KS, Kansas,Kans.,6,2012,0.38,0.6
+KY, Kentucky,Ky.,8,2012,0.38,0.61
+LA, Louisiana,La.,8,2012,0.41,0.58
+ME, Maine,Maine,4,2012,0.56,0.41
+MD, Maryland,Md.,10,2012,0.62,0.37
+MA, Massachusetts,Mass.,11,2012,0.61,0.38
+MI, Michigan,Mich.,16,2012,0.54,0.45
+MN, Minnesota,Minn.,10,2012,0.53,0.45
+MS, Mississippi,Miss.,6,2012,0.44,0.56
+MO, Missouri,Mo.,10,2012,0.44,0.54
+MT, Montana,Mont.,3,2012,0.42,0.55
+NE, Nebraska,Nebr.,5,2012,0.38,0.61
+NV, Nevada,Nev.,6,2012,0.52,0.46
+NH, New Hampshire,N.H.,4,2012,0.52,0.46
+NJ, New Jersey,N.J.,14,2012,0.58,0.41
+NM, New Mexico,N. Mex.,5,2012,0.53,0.43
+NY, New York,N.Y.,29,2012,0.63,0.36
+NC, North Carolina,N.C.,15,2012,0.48,0.51
+ND,  North Dakota,N. Dak.,3,2012,0.39,0.59
+OH, Ohio,Ohio,18,2012,0.5,0.48
+OK, Oklahoma,Okla.,7,2012,0.33,0.67
+OR, Oregon,Oreg.,7,2012,0.55,0.43
+PA, Pennsylvania,Pa.,20,2012,0.52,0.47
+RI, Rhode Island,R.I.,4,2012,0.63,0.36
+SC, South Carolina,S.C.,9,2012,0.44,0.55
+SD, South Dakota,S. Dak.,3,2012,0.4,0.58
+TN, Tennessee,Tenn.,11,2012,0.39,0.6
+TX, Texas,Tex.,38,2012,0.41,0.57
+UT, Utah,Utah,6,2012,0.25,0.73
+VT, Vermont,Vt.,3,2012,0.67,0.31
+VA, Virginia,Va.,13,2012,0.51,0.48
+WA, Washington,Wash.,12,2012,0.56,0.42
+WV, West Virginia,W. Va.,5,2012,0.36,0.62
+WI, Wisconsin,Wis.,10,2012,0.53,0.46
+WY, Wyoming,Wyo.,3,2012,0.28,0.69
+AL, Alabama,Ala.,9,2008,0.39,0.6
+AK, Alaska,Alaska,3,2008,0.38,0.6
+AZ, Arizona,Ariz.,11,2008,0.45,0.54
+AR, Arkansas,Ark.,6,2008,0.39,0.59
+CA, California,Calif.,55,2008,0.61,0.37
+CO, Colorado,Colo.,9,2008,0.54,0.45
+CT, Connecticut,Conn.,7,2008,0.61,0.38
+DE, Delaware,Del.,3,2008,0.62,0.37
+DC, District of Columbia,D.C.,3,2008,0.93,0.07
+FL, Florida,Fla.,29,2008,0.51,0.48
+GA, Georgia,Ga.,16,2008,0.47,0.52
+HI, Hawaii,Hawaii,4,2008,0.72,0.27
+ID, Idaho,Idaho,4,2008,0.36,0.62
+IL, Illinois,Ill.,20,2008,0.62,0.37
+IN, Indiana,Ind.,11,2008,0.5,0.49
+IA, Iowa,Iowa,6,2008,0.54,0.45
+KS, Kansas,Kans.,6,2008,0.41,0.57
+KY, Kentucky,Ky.,8,2008,0.41,0.57
+LA, Louisiana,La.,8,2008,0.4,0.59
+ME, Maine,Maine,4,2008,0.58,0.41
+MD, Maryland,Md.,10,2008,0.62,0.37
+MA, Massachusetts,Mass.,11,2008,0.62,0.36
+MI, Michigan,Mich.,16,2008,0.57,0.41
+MN, Minnesota,Minn.,10,2008,0.54,0.44
+MS, Mississippi,Miss.,6,2008,0.43,0.56
+MO, Missouri,Mo.,10,2008,0.49,0.49
+MT, Montana,Mont.,3,2008,0.47,0.5
+NE, Nebraska,Nebr.,5,2008,0.42,0.57
+NV, Nevada,Nev.,6,2008,0.55,0.43
+NH, New Hampshire,N.H.,4,2008,0.54,0.45
+NJ, New Jersey,N.J.,14,2008,0.57,0.42
+NM, New Mexico,N. Mex.,5,2008,0.57,0.42
+NY, New York,N.Y.,29,2008,0.62,0.37
+NC, North Carolina,N.C.,15,2008,0.5,0.5
+ND,  North Dakota,N. Dak.,3,2008,0.45,0.53
+OH, Ohio,Ohio,18,2008,0.51,0.47
+OK, Oklahoma,Okla.,7,2008,0.34,0.66
+OR, Oregon,Oreg.,7,2008,0.57,0.41
+PA, Pennsylvania,Pa.,20,2008,0.55,0.44
+RI, Rhode Island,R.I.,4,2008,0.63,0.35
+SC, South Carolina,S.C.,9,2008,0.45,0.54
+SD, South Dakota,S. Dak.,3,2008,0.45,0.53
+TN, Tennessee,Tenn.,11,2008,0.42,0.57
+TX, Texas,Tex.,38,2008,0.44,0.56
+UT, Utah,Utah,6,2008,0.35,0.62
+VT, Vermont,Vt.,3,2008,0.68,0.31
+VA, Virginia,Va.,13,2008,0.53,0.46
+WA, Washington,Wash.,12,2008,0.57,0.41
+WV, West Virginia,W. Va.,5,2008,0.43,0.56
+WI, Wisconsin,Wis.,10,2008,0.56,0.42
+WY, Wyoming,Wyo.,3,2008,0.33,0.65
